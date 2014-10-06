@@ -1,0 +1,8 @@
+{
+  "name": "FutureUniverse",
+  "version": "0.0.1",
+  "dependencies": {
+    "cli-color": "^0.3.2",
+    "seedable-random": "0.0.1"
+  }
+}
